@@ -1,0 +1,11 @@
+D:\gf\项目\定时关机\ShutDown\ShutDown\bin\Debug\ShutDown.exe.config
+D:\gf\项目\定时关机\ShutDown\ShutDown\bin\Debug\ShutDown.exe
+D:\gf\项目\定时关机\ShutDown\ShutDown\bin\Debug\ShutDown.pdb
+D:\gf\项目\定时关机\ShutDown\ShutDown\obj\Debug\ShutDown.csprojResolveAssemblyReference.cache
+D:\gf\项目\定时关机\ShutDown\ShutDown\obj\Debug\ShutDown.CountDown.resources
+D:\gf\项目\定时关机\ShutDown\ShutDown\obj\Debug\ShutDown.MainForm.resources
+D:\gf\项目\定时关机\ShutDown\ShutDown\obj\Debug\ShutDown.Properties.Resources.resources
+D:\gf\项目\定时关机\ShutDown\ShutDown\obj\Debug\ShutDown.csproj.GenerateResource.Cache
+D:\gf\项目\定时关机\ShutDown\ShutDown\obj\Debug\ShutDown.csproj.CoreCompileInputs.cache
+D:\gf\项目\定时关机\ShutDown\ShutDown\obj\Debug\ShutDown.exe
+D:\gf\项目\定时关机\ShutDown\ShutDown\obj\Debug\ShutDown.pdb
